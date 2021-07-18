@@ -1,0 +1,43 @@
+body{
+    font-family: Poppins;
+    margin: 0;
+}
+.sect{
+    padding:50px;
+}
+.waves-effect{
+    margin-top: 30px;
+}
+.head{
+    top:0;
+    padding: 0.5px;
+    font-family: Alegreya Sans SC;
+    background: lightgray;
+}
+.footer{
+    background: lightgray;
+    margin-bottom: 0;
+    bottom: 0;
+    padding: 10px;
+}
+
+.neonText {
+  background-color:black;
+  color: #fff;
+  text-shadow:
+      0 0 7px #3333ff,
+      0 0 10px #3333ff,
+      0 0 21px #3333ff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
+.info{
+    font-weight: 500;
+}
+
+.main{
+  text-shadow: 3px 5px #0FF;
+}
